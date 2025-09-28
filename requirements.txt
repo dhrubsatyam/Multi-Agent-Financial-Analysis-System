@@ -1,0 +1,10 @@
+yfinance
+pandas
+matplotlib
+seaborn
+scikit-learn
+newsapi-python
+openai
+python-dotenv
+streamlit
+requests
